@@ -1,4 +1,4 @@
-# A implmentation of the reinforcement learning for CartPole-v0
+# A implementation of the reinforcement learning for CartPole-v0
 
 ## The step plot of the result
 ![step](https://user-images.githubusercontent.com/16127951/145727086-1cf0cf31-c953-413c-ae94-3a639724778e.jpeg)
