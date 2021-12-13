@@ -1,4 +1,5 @@
 # An implementation of the reinforcement learning for CartPole-v0
+![record](https://user-images.githubusercontent.com/16127951/145766428-984e920a-d9eb-4d85-9a5f-c92a21910ee1.gif)
 
 ## The step plot of the result
 ![step](https://user-images.githubusercontent.com/16127951/145727086-1cf0cf31-c953-413c-ae94-3a639724778e.jpeg)
@@ -8,3 +9,4 @@
 
 ### Reference
 CartPole-v0: https://gym.openai.com/envs/CartPole-v0/
+
